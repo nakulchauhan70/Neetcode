@@ -1,4 +1,4 @@
-package com.code150;
+package com.code150.arrayandhashing;
 
 import java.util.HashSet;
 import java.util.Set;
